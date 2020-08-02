@@ -20,6 +20,9 @@
 
 .header__inputButton {
   width: 50px !important;
+  background-color: #fafafa;
+  border-left: 1px solid lightgray;
+  color: gray;
 }
 
 .header__icons {
